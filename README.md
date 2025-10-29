@@ -39,7 +39,7 @@ You will need Node.js (version 18+ recommended) and npm or yarn installed on you
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/time-tracker-app.git
+git clone https://github.com/Nopalogic/time-tracker-app.git
 ```
 
 Navigate to the project directory
